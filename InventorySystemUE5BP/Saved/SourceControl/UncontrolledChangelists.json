@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/fufu/Documents/Unreal Projects/InventorySystemUE5BP/Content/InventorySystem/BP_Inventory.uasset",
+				"C:/Users/fufu/Documents/Unreal Projects/InventorySystemUE5BP/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/fufu/Documents/Unreal Projects/InventorySystemUE5BP/Content/InventorySystem/BP_InventoryStructure.uasset",
+				"C:/Users/fufu/Documents/Unreal Projects/InventorySystemUE5BP/Content/InventorySystem/BP_ItemStructure.uasset",
+				"C:/Users/fufu/Documents/Unreal Projects/InventorySystemUE5BP/Content/InventorySystem/DT_Items.uasset",
+				"C:/Users/fufu/Documents/Unreal Projects/InventorySystemUE5BP/Content/InventorySystem/BPI_Inventory.uasset",
+				"C:/Users/fufu/Documents/Unreal Projects/InventorySystemUE5BP/Content/InventorySystem/BP_HealthItem.uasset",
+				"C:/Users/fufu/Documents/Unreal Projects/InventorySystemUE5BP/Content/InventorySystem/ItemComponent.uasset",
+				"C:/Users/fufu/Documents/Unreal Projects/InventorySystemUE5BP/Content/InventorySystem/25296.uasset",
+				"C:/Users/fufu/Documents/Unreal Projects/InventorySystemUE5BP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/CW/KUWDGSPVBW3MC5S0H49110.uasset",
+				"C:/Users/fufu/Documents/Unreal Projects/InventorySystemUE5BP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/KR/ZMY2TC6GT9YKGR8F2KED0Q.uasset"
+			]
+		}
+	]
+}
